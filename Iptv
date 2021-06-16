@@ -25,9 +25,8 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 #EXTINF:-1, tvg-logo="http://goldenlivektv.com/img/liveeee.png" group-title="ð‹ð¢ð¯ðž ðð¨ð¥ðš" ,LIVE 
 
 
-
-#EXTINF:-1 tvg- logo="http://goldenlivektv.com/img/golden_ktv.png" group-title="ð‹ð¨ðœðšð¥", Langganan Hubungi Admin                         
-http://goldenlivektv.com/Bagi/intro_ktv.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dohXYW9xnd4/YH9Q4elHUpI/AAAAAAAAAQA/8mIymRvpRFw0cQs0WMuciLYk1lvmZ3t-wCLcBGAsYHQ/s960/PicsArt_04-21-05.05.21.png" group-title="ð‹ð¨ðœðšð¥", ANTV_
+http://85.203.33.29:25461/9ry2X6qpPc/opPSyaPL1C/160572?play_token=W4FiIcljhb&token=ShdcBRFREglDAQZWA1EIUgYFAVoLWwIHA1FdVgVWDVZVDANQVQxVUFJGHxERR0tSUF5mClwbCQZQVQwCBU4bRUJQRjsLXRIJQ1ALAlQHARUdEU0KVVwRDVdTCwQGUAEGAgQYRhJQVBFbRgAHUwcMFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCAUAAhtPGlpcQggRS0wVWBt5dRcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUAHCAQAEUQ= 
 #EXTINF:-1 tvg-logo="http://goldenlivektv.com/img/sctv.png"group-title="ð‹ð¨ðœðšð¥", SCTV HD
 https://livestreaming-google-etslive.vidio.com/live/204/master.m3u8
 #EXTINF:-1 tvg-logo="http://goldenlivektv.com/img/indosiar.png"group-title="ð‹ð¨ðœðšð¥", Indosiar HD
